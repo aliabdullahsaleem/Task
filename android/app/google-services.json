@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "507561299416",
+    "project_id": "onlyforpractise-9db1b",
+    "storage_bucket": "onlyforpractise-9db1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507561299416:android:9156056b69646f40d6f6ad",
+        "android_client_info": {
+          "package_name": "com.taskforinterview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507561299416-33ulbqeq6d8qdt92uh1tltmvkiiein6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwVtKg_4HjTde8ZbysNs1OhaqLdXr26Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507561299416-33ulbqeq6d8qdt92uh1tltmvkiiein6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
